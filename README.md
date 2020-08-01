@@ -13,3 +13,9 @@ A few resources to get you started:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# SUPPORT THE WORK
+
+[![GitHub followers](https://img.shields.io/github/followers/hrshmistry?style=social)](https://github.com/hrshmistry?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/hrshmistry/Audio-Player?style=social)](https://github.com/hrshmistry/Audio-Player/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/hrshmistry/Audio-Player?style=social)](https://github.com/hrshmistry/Audio-Player/stargazers)
