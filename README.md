@@ -1,4 +1,4 @@
-# audio_player
+# Audio Player
 
 <p float = "center"> 
   <img src="/ss/Google Pixel Quite Black.png" height="600" width="300"  />
