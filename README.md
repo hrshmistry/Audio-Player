@@ -1,7 +1,7 @@
 # audio_player
 
 <p float = "center"> 
-  <img src="/ss/Google Pixel Quite Black.png" />
+  <img src="/ss/Google Pixel Quite Black.png" height="700" width="310"  />
   <img src="/ss/iPhone 7 Plus.png" height="500" width="310" />
 </p>
 
