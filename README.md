@@ -2,7 +2,7 @@
 
 <p float = "center"> 
   <img src="/ss/Google Pixel Quite Black.png" height="500" width="310" />
-  <img src="/ss/iPhone 7 Plus.png.png" height="500" width="310" />
+  <img src="/ss/iPhone 7 Plus.png" height="500" width="310" />
 </p>
 
 A few resources to get you started:
