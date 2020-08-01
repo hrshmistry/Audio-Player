@@ -1,12 +1,11 @@
-# music_app
+# audio_player
 
-A new Flutter project.
+<p float = "center"> 
+  <img src="/ss/Google Pixel Quite Black.png" height="500" width="310" />
+  <img src="/ss/iPhone 7 Plus.png.png" height="500" width="310" />
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
